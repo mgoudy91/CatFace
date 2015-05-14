@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mgoudy91@gmail.com",
+    "longName": "Cat Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background_cat.png",
+                "menuIcon": true,
+                "name": "background_cat",
+                "type": "png"
+            },
+            {
+                "file": "images/background_low.png",
+                "name": "background_low",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "background",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Cat Face",
+    "uuid": "62868a43-9e6c-434f-91fe-f60141978b8d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
