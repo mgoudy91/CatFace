@@ -9,15 +9,14 @@
     "resources": {
         "media": [
             {
+                "file": "images/background_cat.png",
+                "name": "background_cat",
+                "type": "png"
+            },
+            {
                 "file": "fonts/perfect-dos-vga.ttf",
                 "name": "FONT_PERFECT_DOS_48",
                 "type": "font"
-            },
-            {
-                "file": "images/background_cat.png",
-                "menuIcon": true,
-                "name": "background_cat",
-                "type": "png"
             },
             {
                 "file": "images/background_low.png",
